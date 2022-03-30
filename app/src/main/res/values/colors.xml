@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#CCCCCC</color>
+    <color name="medium_primary">#99000000</color>
+    <color name="high_primary">#DE000000</color>
+    <color name="secondary">#2CC531</color>
+    <color name="secondary_variant">#1DBA20</color>
+    <color name="secondary_light">#332CC531</color>
+    <color name="disabled_secondary">#66ffffff</color>
+    <color name="disabled_primary">#61000000</color>
+    <color name="background">#f3f3f3</color>
+    <color name="processing">#F1C40F</color>
+    <color name="warning">#4DF1C40F</color>
+    <color name="processing_medium">#4DF1C40F</color>
+    <color name="processing_light">#33F1C40F</color>
+    <color name="error">#F02121</color>
+    <color name="error_light">#33F02121</color>
+    <color name="error_medium">#4DF02121</color>
+    <color name="error_color">#F02121</color>
+    <color name="shadow">#29000000</color>
+    <color name="chat_bubble_left_bg">#4D2CC531</color>
+    <color name="nav_bar_color">#dedfde</color>
+</resources>
